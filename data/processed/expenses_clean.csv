@@ -1,0 +1,601 @@
+date,category,amount,payment_method,description,year,month,month_name,week,day,day_of_week,quarter,is_weekend
+2024-01-01,Healthcare,2008.46,Net Banking,Pharmacy,2024,1,Jan,1,1,Monday,1,False
+2024-01-02,Food & Dining,447.5,Cash,Restaurant Dinner,2024,1,Jan,1,2,Tuesday,1,False
+2024-01-05,Rent,12465.27,Cash,PG Rent,2024,1,Jan,1,5,Friday,1,False
+2024-01-06,Shopping,2348.88,Debit Card,Clothes Shopping,2024,1,Jan,1,6,Saturday,1,True
+2024-01-11,Food & Dining,351.51,Debit Card,Zomato Delivery,2024,1,Jan,2,11,Thursday,1,False
+2024-01-12,Shopping,1307.52,Cash,Clothes Shopping,2024,1,Jan,2,12,Friday,1,False
+2024-01-13,Travel,3148.12,Credit Card,Train Booking,2024,1,Jan,2,13,Saturday,1,True
+2024-01-13,Utilities,1649.01,Debit Card,Water Bill,2024,1,Jan,2,13,Saturday,1,True
+2024-01-15,Transportation,275.8,Debit Card,Uber Ride,2024,1,Jan,3,15,Monday,1,False
+2024-01-15,Education,893.76,UPI,Course Fee,2024,1,Jan,3,15,Monday,1,False
+2024-01-16,Transportation,326.47,UPI,Auto Rickshaw,2024,1,Jan,3,16,Tuesday,1,False
+2024-01-17,Utilities,1694.31,UPI,Electricity Bill,2024,1,Jan,3,17,Wednesday,1,False
+2024-01-17,Food & Dining,388.89,Debit Card,Swiggy Order,2024,1,Jan,3,17,Wednesday,1,False
+2024-01-18,Shopping,2273.17,Net Banking,Clothes Shopping,2024,1,Jan,3,18,Thursday,1,False
+2024-01-19,Transportation,111.0,Credit Card,Metro Card,2024,1,Jan,3,19,Friday,1,False
+2024-01-20,Food & Dining,425.56,Debit Card,Grocery Store,2024,1,Jan,3,20,Saturday,1,True
+2024-01-20,Entertainment,347.98,Credit Card,Concert,2024,1,Jan,3,20,Saturday,1,True
+2024-01-21,Transportation,116.7,UPI,Uber Ride,2024,1,Jan,3,21,Sunday,1,True
+2024-01-21,Utilities,1230.48,Credit Card,Gas Bill,2024,1,Jan,3,21,Sunday,1,True
+2024-01-21,Transportation,77.55,Debit Card,Ola Cab,2024,1,Jan,3,21,Sunday,1,True
+2024-01-22,Miscellaneous,324.43,Cash,Others,2024,1,Jan,4,22,Monday,1,False
+2024-01-22,Transportation,228.31,Cash,Uber Ride,2024,1,Jan,4,22,Monday,1,False
+2024-01-23,Education,2410.61,UPI,Online Course,2024,1,Jan,4,23,Tuesday,1,False
+2024-01-23,Utilities,1662.77,Cash,Mobile Recharge,2024,1,Jan,4,23,Tuesday,1,False
+2024-01-25,Transportation,215.28,Debit Card,Metro Card,2024,1,Jan,4,25,Thursday,1,False
+2024-01-25,Food & Dining,395.08,UPI,Zomato Delivery,2024,1,Jan,4,25,Thursday,1,False
+2024-01-26,Transportation,186.95,Debit Card,Auto Rickshaw,2024,1,Jan,4,26,Friday,1,False
+2024-01-27,Rent,11788.1,UPI,Apartment Rent,2024,1,Jan,4,27,Saturday,1,True
+2024-01-27,Food & Dining,270.49,Net Banking,Cafe Coffee,2024,1,Jan,4,27,Saturday,1,True
+2024-01-27,Food & Dining,280.77,Net Banking,Grocery Store,2024,1,Jan,4,27,Saturday,1,True
+2024-01-27,Shopping,444.78,Debit Card,Flipkart Purchase,2024,1,Jan,4,27,Saturday,1,True
+2024-01-27,Travel,2654.41,Debit Card,Visa Fee,2024,1,Jan,4,27,Saturday,1,True
+2024-01-27,Transportation,219.25,Debit Card,Auto Rickshaw,2024,1,Jan,4,27,Saturday,1,True
+2024-01-29,Food & Dining,545.89,Debit Card,Restaurant Dinner,2024,1,Jan,5,29,Monday,1,False
+2024-01-29,Miscellaneous,278.96,UPI,Others,2024,1,Jan,5,29,Monday,1,False
+2024-01-29,Healthcare,1559.54,Credit Card,Doctor Visit,2024,1,Jan,5,29,Monday,1,False
+2024-01-30,Transportation,143.2,Debit Card,Metro Card,2024,1,Jan,5,30,Tuesday,1,False
+2024-01-30,Rent,12085.59,UPI,Apartment Rent,2024,1,Jan,5,30,Tuesday,1,False
+2024-01-31,Rent,11184.75,UPI,House Rent,2024,1,Jan,5,31,Wednesday,1,False
+2024-02-01,Entertainment,837.61,Cash,Netflix,2024,2,Feb,5,1,Thursday,1,False
+2024-02-01,Healthcare,981.84,UPI,Dental Checkup,2024,2,Feb,5,1,Thursday,1,False
+2024-02-01,Shopping,1298.9,Debit Card,Amazon Order,2024,2,Feb,5,1,Thursday,1,False
+2024-02-03,Food & Dining,479.97,Cash,Grocery Store,2024,2,Feb,5,3,Saturday,1,True
+2024-02-04,Miscellaneous,272.78,Net Banking,Others,2024,2,Feb,5,4,Sunday,1,True
+2024-02-04,Food & Dining,249.23,Cash,Grocery Store,2024,2,Feb,5,4,Sunday,1,True
+2024-02-04,Food & Dining,534.56,Credit Card,Grocery Store,2024,2,Feb,5,4,Sunday,1,True
+2024-02-04,Food & Dining,339.31,Debit Card,Zomato Delivery,2024,2,Feb,5,4,Sunday,1,True
+2024-02-05,Shopping,1194.25,Net Banking,Flipkart Purchase,2024,2,Feb,6,5,Monday,1,False
+2024-02-05,Miscellaneous,251.44,Credit Card,Charity Donation,2024,2,Feb,6,5,Monday,1,False
+2024-02-05,Healthcare,576.7,Credit Card,Doctor Visit,2024,2,Feb,6,5,Monday,1,False
+2024-02-07,Food & Dining,320.12,Cash,Zomato Delivery,2024,2,Feb,6,7,Wednesday,1,False
+2024-02-07,Rent,11880.4,UPI,Apartment Rent,2024,2,Feb,6,7,Wednesday,1,False
+2024-02-07,Transportation,31.33,Debit Card,Auto Rickshaw,2024,2,Feb,6,7,Wednesday,1,False
+2024-02-08,Transportation,165.43,Credit Card,Ola Cab,2024,2,Feb,6,8,Thursday,1,False
+2024-02-08,Food & Dining,265.75,Credit Card,Cafe Coffee,2024,2,Feb,6,8,Thursday,1,False
+2024-02-08,Travel,2781.24,Cash,Visa Fee,2024,2,Feb,6,8,Thursday,1,False
+2024-02-09,Transportation,139.69,Net Banking,Ola Cab,2024,2,Feb,6,9,Friday,1,False
+2024-02-09,Shopping,1898.13,Net Banking,Amazon Order,2024,2,Feb,6,9,Friday,1,False
+2024-02-09,Transportation,151.91,Debit Card,Petrol Fill,2024,2,Feb,6,9,Friday,1,False
+2024-02-10,Travel,2208.07,Debit Card,Hotel Stay,2024,2,Feb,6,10,Saturday,1,True
+2024-02-10,Rent,11520.85,Debit Card,PG Rent,2024,2,Feb,6,10,Saturday,1,True
+2024-02-10,Utilities,972.38,UPI,Internet Bill,2024,2,Feb,6,10,Saturday,1,True
+2024-02-11,Rent,12189.53,Cash,Monthly Rent,2024,2,Feb,6,11,Sunday,1,True
+2024-02-11,Food & Dining,330.81,Debit Card,Grocery Store,2024,2,Feb,6,11,Sunday,1,True
+2024-02-12,Rent,11585.9,Cash,Monthly Rent,2024,2,Feb,7,12,Monday,1,False
+2024-02-12,Healthcare,1004.51,Cash,Medicine Purchase,2024,2,Feb,7,12,Monday,1,False
+2024-02-13,Utilities,1871.34,Debit Card,Mobile Recharge,2024,2,Feb,7,13,Tuesday,1,False
+2024-02-13,Food & Dining,332.35,UPI,Grocery Store,2024,2,Feb,7,13,Tuesday,1,False
+2024-02-14,Education,3162.83,Debit Card,Tuition Fee,2024,2,Feb,7,14,Wednesday,1,False
+2024-02-14,Food & Dining,374.42,UPI,Restaurant Dinner,2024,2,Feb,7,14,Wednesday,1,False
+2024-02-15,Food & Dining,375.98,Debit Card,Restaurant Dinner,2024,2,Feb,7,15,Thursday,1,False
+2024-02-16,Rent,11354.91,Credit Card,Monthly Rent,2024,2,Feb,7,16,Friday,1,False
+2024-02-16,Entertainment,725.23,Cash,Gaming,2024,2,Feb,7,16,Friday,1,False
+2024-02-16,Shopping,26.35,Debit Card,Clothes Shopping,2024,2,Feb,7,16,Friday,1,False
+2024-02-16,Food & Dining,258.9,Net Banking,Cafe Coffee,2024,2,Feb,7,16,Friday,1,False
+2024-02-17,Entertainment,401.87,Credit Card,Netflix,2024,2,Feb,7,17,Saturday,1,True
+2024-02-17,Shopping,1360.28,Debit Card,Flipkart Purchase,2024,2,Feb,7,17,Saturday,1,True
+2024-02-19,Food & Dining,154.69,Cash,Restaurant Dinner,2024,2,Feb,8,19,Monday,1,False
+2024-02-19,Food & Dining,293.66,Debit Card,Restaurant Dinner,2024,2,Feb,8,19,Monday,1,False
+2024-02-20,Food & Dining,812.33,Credit Card,Lunch Canteen,2024,2,Feb,8,20,Tuesday,1,False
+2024-02-21,Education,1145.9,Net Banking,Workshop,2024,2,Feb,8,21,Wednesday,1,False
+2024-02-21,Transportation,268.68,Cash,Uber Ride,2024,2,Feb,8,21,Wednesday,1,False
+2024-02-22,Food & Dining,333.41,Net Banking,Swiggy Order,2024,2,Feb,8,22,Thursday,1,False
+2024-02-23,Rent,11671.11,Net Banking,House Rent,2024,2,Feb,8,23,Friday,1,False
+2024-02-24,Food & Dining,257.24,Credit Card,Grocery Store,2024,2,Feb,8,24,Saturday,1,True
+2024-02-24,Entertainment,294.79,Debit Card,Spotify,2024,2,Feb,8,24,Saturday,1,True
+2024-02-24,Education,1938.32,Cash,Online Course,2024,2,Feb,8,24,Saturday,1,True
+2024-02-25,Entertainment,182.65,Cash,Amazon Prime,2024,2,Feb,8,25,Sunday,1,True
+2024-02-25,Entertainment,624.25,Cash,Gaming,2024,2,Feb,8,25,Sunday,1,True
+2024-02-26,Transportation,178.7,Debit Card,Bus Pass,2024,2,Feb,9,26,Monday,1,False
+2024-02-27,Miscellaneous,342.27,UPI,Others,2024,2,Feb,9,27,Tuesday,1,False
+2024-02-27,Rent,12331.76,Debit Card,House Rent,2024,2,Feb,9,27,Tuesday,1,False
+2024-02-28,Shopping,1093.26,Net Banking,Flipkart Purchase,2024,2,Feb,9,28,Wednesday,1,False
+2024-02-28,Rent,11079.23,UPI,House Rent,2024,2,Feb,9,28,Wednesday,1,False
+2024-03-01,Miscellaneous,158.08,Net Banking,Subscription,2024,3,Mar,9,1,Friday,1,False
+2024-03-01,Transportation,171.97,Credit Card,Auto Rickshaw,2024,3,Mar,9,1,Friday,1,False
+2024-03-03,Entertainment,568.02,Credit Card,Amazon Prime,2024,3,Mar,9,3,Sunday,1,True
+2024-03-03,Food & Dining,317.67,UPI,Zomato Delivery,2024,3,Mar,9,3,Sunday,1,True
+2024-03-04,Rent,11986.12,Debit Card,PG Rent,2024,3,Mar,10,4,Monday,1,False
+2024-03-05,Miscellaneous,217.05,Net Banking,Others,2024,3,Mar,10,5,Tuesday,1,False
+2024-03-05,Food & Dining,444.45,Cash,Lunch Canteen,2024,3,Mar,10,5,Tuesday,1,False
+2024-03-06,Food & Dining,302.95,UPI,Restaurant Dinner,2024,3,Mar,10,6,Wednesday,1,False
+2024-03-07,Shopping,1584.9,Cash,Books,2024,3,Mar,10,7,Thursday,1,False
+2024-03-08,Rent,12034.82,Debit Card,Apartment Rent,2024,3,Mar,10,8,Friday,1,False
+2024-03-09,Miscellaneous,174.9,Debit Card,ATM Withdrawal,2024,3,Mar,10,9,Saturday,1,True
+2024-03-09,Travel,3171.35,Net Banking,Trip Expenses,2024,3,Mar,10,9,Saturday,1,True
+2024-03-10,Food & Dining,288.34,UPI,Lunch Canteen,2024,3,Mar,10,10,Sunday,1,True
+2024-03-11,Transportation,99.43,Net Banking,Auto Rickshaw,2024,3,Mar,11,11,Monday,1,False
+2024-03-11,Healthcare,710.56,UPI,Pharmacy,2024,3,Mar,11,11,Monday,1,False
+2024-03-13,Transportation,176.48,UPI,Uber Ride,2024,3,Mar,11,13,Wednesday,1,False
+2024-03-14,Transportation,119.52,Debit Card,Bus Pass,2024,3,Mar,11,14,Thursday,1,False
+2024-03-15,Transportation,79.89,Credit Card,Petrol Fill,2024,3,Mar,11,15,Friday,1,False
+2024-03-15,Transportation,95.98,Cash,Ola Cab,2024,3,Mar,11,15,Friday,1,False
+2024-03-15,Education,1670.5,Debit Card,Course Fee,2024,3,Mar,11,15,Friday,1,False
+2024-03-15,Education,3044.38,Credit Card,Workshop,2024,3,Mar,11,15,Friday,1,False
+2024-03-16,Miscellaneous,508.19,Cash,ATM Withdrawal,2024,3,Mar,11,16,Saturday,1,True
+2024-03-16,Rent,12463.24,UPI,House Rent,2024,3,Mar,11,16,Saturday,1,True
+2024-03-16,Shopping,555.21,UPI,Amazon Order,2024,3,Mar,11,16,Saturday,1,True
+2024-03-17,Food & Dining,208.01,Net Banking,Lunch Canteen,2024,3,Mar,11,17,Sunday,1,True
+2024-03-20,Travel,4786.49,Credit Card,Visa Fee,2024,3,Mar,12,20,Wednesday,1,False
+2024-03-20,Utilities,1724.19,Cash,Electricity Bill,2024,3,Mar,12,20,Wednesday,1,False
+2024-03-20,Miscellaneous,360.97,UPI,Charity Donation,2024,3,Mar,12,20,Wednesday,1,False
+2024-03-21,Healthcare,904.6,UPI,Dental Checkup,2024,3,Mar,12,21,Thursday,1,False
+2024-03-21,Miscellaneous,436.16,Cash,Subscription,2024,3,Mar,12,21,Thursday,1,False
+2024-03-22,Shopping,1968.57,Cash,Clothes Shopping,2024,3,Mar,12,22,Friday,1,False
+2024-03-22,Food & Dining,241.09,Debit Card,Cafe Coffee,2024,3,Mar,12,22,Friday,1,False
+2024-03-23,Food & Dining,431.55,Debit Card,Grocery Store,2024,3,Mar,12,23,Saturday,1,True
+2024-03-23,Transportation,288.58,Credit Card,Petrol Fill,2024,3,Mar,12,23,Saturday,1,True
+2024-03-23,Food & Dining,597.29,Debit Card,Grocery Store,2024,3,Mar,12,23,Saturday,1,True
+2024-03-24,Transportation,216.01,Credit Card,Bus Pass,2024,3,Mar,12,24,Sunday,1,True
+2024-03-24,Shopping,1629.86,Debit Card,Amazon Order,2024,3,Mar,12,24,Sunday,1,True
+2024-03-25,Miscellaneous,316.53,Debit Card,Subscription,2024,3,Mar,13,25,Monday,1,False
+2024-03-25,Shopping,1491.39,Cash,Amazon Order,2024,3,Mar,13,25,Monday,1,False
+2024-03-25,Food & Dining,527.59,Credit Card,Restaurant Dinner,2024,3,Mar,13,25,Monday,1,False
+2024-03-27,Entertainment,340.69,Net Banking,Gaming,2024,3,Mar,13,27,Wednesday,1,False
+2024-03-27,Transportation,81.87,UPI,Metro Card,2024,3,Mar,13,27,Wednesday,1,False
+2024-03-30,Rent,12008.4,UPI,Monthly Rent,2024,3,Mar,13,30,Saturday,1,True
+2024-03-30,Shopping,1016.52,Credit Card,Flipkart Purchase,2024,3,Mar,13,30,Saturday,1,True
+2024-03-30,Food & Dining,480.67,Cash,Cafe Coffee,2024,3,Mar,13,30,Saturday,1,True
+2024-03-30,Rent,11875.89,Debit Card,Monthly Rent,2024,3,Mar,13,30,Saturday,1,True
+2024-03-31,Travel,693.81,UPI,Trip Expenses,2024,3,Mar,13,31,Sunday,1,True
+2024-04-02,Transportation,81.48,Credit Card,Petrol Fill,2024,4,Apr,14,2,Tuesday,2,False
+2024-04-02,Transportation,141.24,Net Banking,Metro Card,2024,4,Apr,14,2,Tuesday,2,False
+2024-04-03,Education,2500.53,Cash,Books Purchase,2024,4,Apr,14,3,Wednesday,2,False
+2024-04-03,Travel,3939.61,UPI,Train Booking,2024,4,Apr,14,3,Wednesday,2,False
+2024-04-05,Shopping,906.67,Debit Card,Amazon Order,2024,4,Apr,14,5,Friday,2,False
+2024-04-06,Miscellaneous,399.32,Credit Card,Others,2024,4,Apr,14,6,Saturday,2,True
+2024-04-07,Food & Dining,407.9,UPI,Zomato Delivery,2024,4,Apr,14,7,Sunday,2,True
+2024-04-07,Travel,3590.35,Debit Card,Flight Tickets,2024,4,Apr,14,7,Sunday,2,True
+2024-04-07,Shopping,782.78,Credit Card,Electronics,2024,4,Apr,14,7,Sunday,2,True
+2024-04-08,Food & Dining,452.77,Debit Card,Swiggy Order,2024,4,Apr,15,8,Monday,2,False
+2024-04-08,Entertainment,885.71,Cash,Spotify,2024,4,Apr,15,8,Monday,2,False
+2024-04-08,Healthcare,1246.89,Credit Card,Pharmacy,2024,4,Apr,15,8,Monday,2,False
+2024-04-09,Miscellaneous,330.09,Debit Card,Gift Purchase,2024,4,Apr,15,9,Tuesday,2,False
+2024-04-09,Entertainment,839.82,Debit Card,Movie Tickets,2024,4,Apr,15,9,Tuesday,2,False
+2024-04-11,Shopping,1242.85,Net Banking,Books,2024,4,Apr,15,11,Thursday,2,False
+2024-04-11,Entertainment,652.22,Credit Card,Movie Tickets,2024,4,Apr,15,11,Thursday,2,False
+2024-04-12,Transportation,151.43,Debit Card,Metro Card,2024,4,Apr,15,12,Friday,2,False
+2024-04-12,Food & Dining,342.48,UPI,Restaurant Dinner,2024,4,Apr,15,12,Friday,2,False
+2024-04-12,Miscellaneous,153.29,UPI,Others,2024,4,Apr,15,12,Friday,2,False
+2024-04-13,Miscellaneous,323.38,Net Banking,Others,2024,4,Apr,15,13,Saturday,2,True
+2024-04-14,Transportation,10.0,Cash,Petrol Fill,2024,4,Apr,15,14,Sunday,2,True
+2024-04-14,Miscellaneous,386.85,Debit Card,Gift Purchase,2024,4,Apr,15,14,Sunday,2,True
+2024-04-15,Food & Dining,288.8,Net Banking,Grocery Store,2024,4,Apr,16,15,Monday,2,False
+2024-04-17,Rent,12366.16,Debit Card,House Rent,2024,4,Apr,16,17,Wednesday,2,False
+2024-04-17,Rent,11636.25,Cash,PG Rent,2024,4,Apr,16,17,Wednesday,2,False
+2024-04-18,Transportation,130.0,Cash,Metro Card,2024,4,Apr,16,18,Thursday,2,False
+2024-04-19,Entertainment,300.95,Cash,Netflix,2024,4,Apr,16,19,Friday,2,False
+2024-04-20,Rent,12306.97,Debit Card,Monthly Rent,2024,4,Apr,16,20,Saturday,2,True
+2024-04-20,Transportation,109.82,Net Banking,Uber Ride,2024,4,Apr,16,20,Saturday,2,True
+2024-04-21,Food & Dining,489.03,Cash,Lunch Canteen,2024,4,Apr,16,21,Sunday,2,True
+2024-04-21,Food & Dining,470.42,UPI,Cafe Coffee,2024,4,Apr,16,21,Sunday,2,True
+2024-04-22,Shopping,1387.07,Cash,Flipkart Purchase,2024,4,Apr,17,22,Monday,2,False
+2024-04-22,Utilities,1245.05,Credit Card,Gas Bill,2024,4,Apr,17,22,Monday,2,False
+2024-04-22,Shopping,1464.17,Credit Card,Books,2024,4,Apr,17,22,Monday,2,False
+2024-04-22,Shopping,1137.71,Credit Card,Books,2024,4,Apr,17,22,Monday,2,False
+2024-04-23,Miscellaneous,319.95,UPI,Subscription,2024,4,Apr,17,23,Tuesday,2,False
+2024-04-23,Miscellaneous,247.63,Cash,Charity Donation,2024,4,Apr,17,23,Tuesday,2,False
+2024-04-25,Miscellaneous,290.06,Debit Card,Others,2024,4,Apr,17,25,Thursday,2,False
+2024-04-26,Education,1870.97,Credit Card,Course Fee,2024,4,Apr,17,26,Friday,2,False
+2024-04-26,Transportation,117.19,Cash,Metro Card,2024,4,Apr,17,26,Friday,2,False
+2024-04-28,Rent,12260.56,Debit Card,PG Rent,2024,4,Apr,17,28,Sunday,2,True
+2024-04-29,Food & Dining,449.05,Debit Card,Zomato Delivery,2024,4,Apr,18,29,Monday,2,False
+2024-04-30,Utilities,1192.68,Debit Card,Water Bill,2024,4,Apr,18,30,Tuesday,2,False
+2024-04-30,Food & Dining,423.7,Debit Card,Restaurant Dinner,2024,4,Apr,18,30,Tuesday,2,False
+2024-04-30,Entertainment,761.34,Cash,Netflix,2024,4,Apr,18,30,Tuesday,2,False
+2024-04-30,Transportation,188.21,Debit Card,Uber Ride,2024,4,Apr,18,30,Tuesday,2,False
+2024-04-30,Food & Dining,250.52,Net Banking,Zomato Delivery,2024,4,Apr,18,30,Tuesday,2,False
+2024-04-30,Food & Dining,612.85,Debit Card,Zomato Delivery,2024,4,Apr,18,30,Tuesday,2,False
+2024-05-01,Miscellaneous,280.66,Credit Card,Gift Purchase,2024,5,May,18,1,Wednesday,2,False
+2024-05-01,Miscellaneous,136.18,Credit Card,Subscription,2024,5,May,18,1,Wednesday,2,False
+2024-05-02,Entertainment,803.38,Debit Card,Concert,2024,5,May,18,2,Thursday,2,False
+2024-05-02,Shopping,1259.38,Credit Card,Amazon Order,2024,5,May,18,2,Thursday,2,False
+2024-05-03,Transportation,111.57,Credit Card,Petrol Fill,2024,5,May,18,3,Friday,2,False
+2024-05-03,Utilities,1085.97,Net Banking,Gas Bill,2024,5,May,18,3,Friday,2,False
+2024-05-04,Shopping,980.28,Credit Card,Books,2024,5,May,18,4,Saturday,2,True
+2024-05-04,Transportation,174.9,Debit Card,Bus Pass,2024,5,May,18,4,Saturday,2,True
+2024-05-06,Entertainment,621.65,Debit Card,Gaming,2024,5,May,19,6,Monday,2,False
+2024-05-06,Rent,11782.25,Net Banking,PG Rent,2024,5,May,19,6,Monday,2,False
+2024-05-08,Food & Dining,363.88,UPI,Lunch Canteen,2024,5,May,19,8,Wednesday,2,False
+2024-05-11,Food & Dining,257.92,Credit Card,Zomato Delivery,2024,5,May,19,11,Saturday,2,True
+2024-05-12,Transportation,120.0,Debit Card,Metro Card,2024,5,May,19,12,Sunday,2,True
+2024-05-13,Food & Dining,380.91,Credit Card,Cafe Coffee,2024,5,May,20,13,Monday,2,False
+2024-05-13,Rent,12546.75,Cash,House Rent,2024,5,May,20,13,Monday,2,False
+2024-05-14,Shopping,1296.36,Net Banking,Electronics,2024,5,May,20,14,Tuesday,2,False
+2024-05-14,Travel,4733.82,Net Banking,Hotel Stay,2024,5,May,20,14,Tuesday,2,False
+2024-05-15,Miscellaneous,270.32,UPI,ATM Withdrawal,2024,5,May,20,15,Wednesday,2,False
+2024-05-15,Transportation,234.22,Debit Card,Petrol Fill,2024,5,May,20,15,Wednesday,2,False
+2024-05-15,Healthcare,1047.94,Net Banking,Dental Checkup,2024,5,May,20,15,Wednesday,2,False
+2024-05-16,Food & Dining,321.58,Credit Card,Swiggy Order,2024,5,May,20,16,Thursday,2,False
+2024-05-18,Healthcare,699.07,Debit Card,Lab Tests,2024,5,May,20,18,Saturday,2,True
+2024-05-18,Transportation,81.14,Net Banking,Ola Cab,2024,5,May,20,18,Saturday,2,True
+2024-05-20,Entertainment,638.43,UPI,Netflix,2024,5,May,21,20,Monday,2,False
+2024-05-20,Utilities,1320.18,Net Banking,Electricity Bill,2024,5,May,21,20,Monday,2,False
+2024-05-20,Transportation,197.81,Debit Card,Uber Ride,2024,5,May,21,20,Monday,2,False
+2024-05-21,Food & Dining,279.01,Credit Card,Swiggy Order,2024,5,May,21,21,Tuesday,2,False
+2024-05-22,Entertainment,503.73,Cash,Amazon Prime,2024,5,May,21,22,Wednesday,2,False
+2024-05-22,Healthcare,928.93,Credit Card,Pharmacy,2024,5,May,21,22,Wednesday,2,False
+2024-05-22,Travel,6329.28,Debit Card,Visa Fee,2024,5,May,21,22,Wednesday,2,False
+2024-05-22,Transportation,248.29,Cash,Ola Cab,2024,5,May,21,22,Wednesday,2,False
+2024-05-24,Education,1477.34,Debit Card,Workshop,2024,5,May,21,24,Friday,2,False
+2024-05-26,Education,2090.81,Credit Card,Workshop,2024,5,May,21,26,Sunday,2,True
+2024-05-26,Food & Dining,432.33,Cash,Lunch Canteen,2024,5,May,21,26,Sunday,2,True
+2024-05-26,Food & Dining,202.3,Credit Card,Restaurant Dinner,2024,5,May,21,26,Sunday,2,True
+2024-05-26,Miscellaneous,493.85,Cash,Gift Purchase,2024,5,May,21,26,Sunday,2,True
+2024-05-27,Education,2065.5,Cash,Course Fee,2024,5,May,22,27,Monday,2,False
+2024-05-27,Healthcare,571.34,Cash,Pharmacy,2024,5,May,22,27,Monday,2,False
+2024-05-28,Shopping,1385.64,Debit Card,Amazon Order,2024,5,May,22,28,Tuesday,2,False
+2024-05-28,Healthcare,39.02,UPI,Medicine Purchase,2024,5,May,22,28,Tuesday,2,False
+2024-05-29,Shopping,1995.74,Cash,Amazon Order,2024,5,May,22,29,Wednesday,2,False
+2024-05-29,Miscellaneous,345.65,Net Banking,Charity Donation,2024,5,May,22,29,Wednesday,2,False
+2024-05-31,Miscellaneous,199.05,Debit Card,ATM Withdrawal,2024,5,May,22,31,Friday,2,False
+2024-05-31,Miscellaneous,289.07,UPI,Subscription,2024,5,May,22,31,Friday,2,False
+2024-06-01,Rent,11937.73,Debit Card,House Rent,2024,6,Jun,22,1,Saturday,2,True
+2024-06-02,Healthcare,921.33,Cash,Doctor Visit,2024,6,Jun,22,2,Sunday,2,True
+2024-06-02,Entertainment,1369.72,Credit Card,Spotify,2024,6,Jun,22,2,Sunday,2,True
+2024-06-03,Food & Dining,250.73,Credit Card,Zomato Delivery,2024,6,Jun,23,3,Monday,2,False
+2024-06-03,Healthcare,789.58,Net Banking,Doctor Visit,2024,6,Jun,23,3,Monday,2,False
+2024-06-03,Miscellaneous,385.67,Cash,ATM Withdrawal,2024,6,Jun,23,3,Monday,2,False
+2024-06-03,Transportation,118.13,UPI,Bus Pass,2024,6,Jun,23,3,Monday,2,False
+2024-06-03,Utilities,1668.89,Cash,Water Bill,2024,6,Jun,23,3,Monday,2,False
+2024-06-04,Transportation,342.03,Cash,Metro Card,2024,6,Jun,23,4,Tuesday,2,False
+2024-06-05,Miscellaneous,346.96,Net Banking,Others,2024,6,Jun,23,5,Wednesday,2,False
+2024-06-06,Miscellaneous,305.59,Credit Card,ATM Withdrawal,2024,6,Jun,23,6,Thursday,2,False
+2024-06-06,Food & Dining,291.76,Net Banking,Lunch Canteen,2024,6,Jun,23,6,Thursday,2,False
+2024-06-07,Food & Dining,355.64,Credit Card,Zomato Delivery,2024,6,Jun,23,7,Friday,2,False
+2024-06-08,Healthcare,1283.6,Net Banking,Doctor Visit,2024,6,Jun,23,8,Saturday,2,True
+2024-06-08,Entertainment,703.2,Net Banking,Spotify,2024,6,Jun,23,8,Saturday,2,True
+2024-06-09,Rent,11729.14,Debit Card,PG Rent,2024,6,Jun,23,9,Sunday,2,True
+2024-06-09,Food & Dining,522.99,Cash,Zomato Delivery,2024,6,Jun,23,9,Sunday,2,True
+2024-06-13,Healthcare,1744.28,Net Banking,Dental Checkup,2024,6,Jun,24,13,Thursday,2,False
+2024-06-15,Rent,12590.14,Net Banking,Monthly Rent,2024,6,Jun,24,15,Saturday,2,True
+2024-06-16,Healthcare,374.09,Cash,Lab Tests,2024,6,Jun,24,16,Sunday,2,True
+2024-06-16,Food & Dining,474.5,Net Banking,Grocery Store,2024,6,Jun,24,16,Sunday,2,True
+2024-06-17,Shopping,1448.03,Debit Card,Books,2024,6,Jun,25,17,Monday,2,False
+2024-06-17,Transportation,68.39,Credit Card,Bus Pass,2024,6,Jun,25,17,Monday,2,False
+2024-06-19,Shopping,1468.32,Credit Card,Amazon Order,2024,6,Jun,25,19,Wednesday,2,False
+2024-06-19,Transportation,129.93,Debit Card,Bus Pass,2024,6,Jun,25,19,Wednesday,2,False
+2024-06-19,Food & Dining,426.63,Cash,Cafe Coffee,2024,6,Jun,25,19,Wednesday,2,False
+2024-06-20,Miscellaneous,497.94,Debit Card,Subscription,2024,6,Jun,25,20,Thursday,2,False
+2024-06-21,Healthcare,2124.08,UPI,Dental Checkup,2024,6,Jun,25,21,Friday,2,False
+2024-06-21,Miscellaneous,166.17,Net Banking,ATM Withdrawal,2024,6,Jun,25,21,Friday,2,False
+2024-06-21,Food & Dining,378.27,Debit Card,Cafe Coffee,2024,6,Jun,25,21,Friday,2,False
+2024-06-22,Shopping,1126.45,Net Banking,Clothes Shopping,2024,6,Jun,25,22,Saturday,2,True
+2024-06-22,Food & Dining,476.85,UPI,Cafe Coffee,2024,6,Jun,25,22,Saturday,2,True
+2024-06-22,Transportation,158.36,UPI,Ola Cab,2024,6,Jun,25,22,Saturday,2,True
+2024-06-22,Transportation,205.66,Credit Card,Bus Pass,2024,6,Jun,25,22,Saturday,2,True
+2024-06-22,Travel,4247.0,Credit Card,Train Booking,2024,6,Jun,25,22,Saturday,2,True
+2024-06-22,Transportation,308.2,Net Banking,Uber Ride,2024,6,Jun,25,22,Saturday,2,True
+2024-06-23,Transportation,201.76,Credit Card,Metro Card,2024,6,Jun,25,23,Sunday,2,True
+2024-06-23,Entertainment,396.05,UPI,Concert,2024,6,Jun,25,23,Sunday,2,True
+2024-06-23,Shopping,1092.58,UPI,Clothes Shopping,2024,6,Jun,25,23,Sunday,2,True
+2024-06-24,Education,1538.48,UPI,Workshop,2024,6,Jun,26,24,Monday,2,False
+2024-06-25,Utilities,924.37,Debit Card,Gas Bill,2024,6,Jun,26,25,Tuesday,2,False
+2024-06-25,Rent,12019.41,Cash,House Rent,2024,6,Jun,26,25,Tuesday,2,False
+2024-06-28,Healthcare,915.87,Cash,Doctor Visit,2024,6,Jun,26,28,Friday,2,False
+2024-06-29,Food & Dining,201.57,Debit Card,Grocery Store,2024,6,Jun,26,29,Saturday,2,True
+2024-06-29,Shopping,715.15,Net Banking,Electronics,2024,6,Jun,26,29,Saturday,2,True
+2024-07-02,Food & Dining,431.83,Credit Card,Cafe Coffee,2024,7,Jul,27,2,Tuesday,3,False
+2024-07-02,Transportation,137.98,Net Banking,Metro Card,2024,7,Jul,27,2,Tuesday,3,False
+2024-07-05,Utilities,1331.31,Credit Card,Internet Bill,2024,7,Jul,27,5,Friday,3,False
+2024-07-06,Shopping,1423.57,Net Banking,Books,2024,7,Jul,27,6,Saturday,3,True
+2024-07-06,Travel,4315.04,Cash,Train Booking,2024,7,Jul,27,6,Saturday,3,True
+2024-07-07,Entertainment,198.39,Cash,Gaming,2024,7,Jul,27,7,Sunday,3,True
+2024-07-07,Rent,11671.73,Credit Card,Monthly Rent,2024,7,Jul,27,7,Sunday,3,True
+2024-07-07,Miscellaneous,446.1,Net Banking,Charity Donation,2024,7,Jul,27,7,Sunday,3,True
+2024-07-07,Food & Dining,286.37,Cash,Grocery Store,2024,7,Jul,27,7,Sunday,3,True
+2024-07-08,Transportation,140.79,Net Banking,Auto Rickshaw,2024,7,Jul,28,8,Monday,3,False
+2024-07-08,Food & Dining,347.49,Credit Card,Grocery Store,2024,7,Jul,28,8,Monday,3,False
+2024-07-08,Food & Dining,310.68,Net Banking,Cafe Coffee,2024,7,Jul,28,8,Monday,3,False
+2024-07-09,Education,1445.67,UPI,Books Purchase,2024,7,Jul,28,9,Tuesday,3,False
+2024-07-09,Entertainment,894.82,Net Banking,Netflix,2024,7,Jul,28,9,Tuesday,3,False
+2024-07-09,Food & Dining,250.94,Credit Card,Cafe Coffee,2024,7,Jul,28,9,Tuesday,3,False
+2024-07-09,Food & Dining,191.57,Debit Card,Grocery Store,2024,7,Jul,28,9,Tuesday,3,False
+2024-07-10,Transportation,35.28,Debit Card,Bus Pass,2024,7,Jul,28,10,Wednesday,3,False
+2024-07-11,Miscellaneous,386.87,Cash,Gift Purchase,2024,7,Jul,28,11,Thursday,3,False
+2024-07-11,Transportation,165.79,Debit Card,Ola Cab,2024,7,Jul,28,11,Thursday,3,False
+2024-07-12,Food & Dining,294.39,UPI,Cafe Coffee,2024,7,Jul,28,12,Friday,3,False
+2024-07-13,Transportation,310.6,Debit Card,Auto Rickshaw,2024,7,Jul,28,13,Saturday,3,True
+2024-07-13,Travel,912.62,Debit Card,Trip Expenses,2024,7,Jul,28,13,Saturday,3,True
+2024-07-14,Shopping,688.33,Net Banking,Books,2024,7,Jul,28,14,Sunday,3,True
+2024-07-14,Food & Dining,315.0,Net Banking,Grocery Store,2024,7,Jul,28,14,Sunday,3,True
+2024-07-15,Shopping,823.09,Cash,Electronics,2024,7,Jul,29,15,Monday,3,False
+2024-07-15,Food & Dining,506.86,Credit Card,Lunch Canteen,2024,7,Jul,29,15,Monday,3,False
+2024-07-15,Food & Dining,300.17,Credit Card,Grocery Store,2024,7,Jul,29,15,Monday,3,False
+2024-07-15,Rent,11904.42,Net Banking,Apartment Rent,2024,7,Jul,29,15,Monday,3,False
+2024-07-16,Shopping,663.92,Debit Card,Flipkart Purchase,2024,7,Jul,29,16,Tuesday,3,False
+2024-07-17,Entertainment,221.2,Net Banking,Netflix,2024,7,Jul,29,17,Wednesday,3,False
+2024-07-18,Education,2207.91,Net Banking,Course Fee,2024,7,Jul,29,18,Thursday,3,False
+2024-07-20,Entertainment,429.99,Net Banking,Gaming,2024,7,Jul,29,20,Saturday,3,True
+2024-07-21,Food & Dining,388.73,Net Banking,Swiggy Order,2024,7,Jul,29,21,Sunday,3,True
+2024-07-21,Healthcare,258.86,Cash,Medicine Purchase,2024,7,Jul,29,21,Sunday,3,True
+2024-07-21,Transportation,138.74,UPI,Metro Card,2024,7,Jul,29,21,Sunday,3,True
+2024-07-22,Entertainment,531.24,Debit Card,Spotify,2024,7,Jul,30,22,Monday,3,False
+2024-07-23,Healthcare,1081.82,Debit Card,Lab Tests,2024,7,Jul,30,23,Tuesday,3,False
+2024-07-23,Education,2060.64,Cash,Course Fee,2024,7,Jul,30,23,Tuesday,3,False
+2024-07-24,Shopping,975.82,Debit Card,Amazon Order,2024,7,Jul,30,24,Wednesday,3,False
+2024-07-24,Rent,12457.5,UPI,House Rent,2024,7,Jul,30,24,Wednesday,3,False
+2024-07-25,Rent,12018.23,Net Banking,Monthly Rent,2024,7,Jul,30,25,Thursday,3,False
+2024-07-26,Entertainment,797.76,Net Banking,Netflix,2024,7,Jul,30,26,Friday,3,False
+2024-07-26,Education,817.13,Cash,Workshop,2024,7,Jul,30,26,Friday,3,False
+2024-07-26,Transportation,195.69,Cash,Metro Card,2024,7,Jul,30,26,Friday,3,False
+2024-07-26,Rent,12099.29,Net Banking,PG Rent,2024,7,Jul,30,26,Friday,3,False
+2024-07-27,Shopping,1243.58,Net Banking,Flipkart Purchase,2024,7,Jul,30,27,Saturday,3,True
+2024-07-29,Healthcare,1085.82,Debit Card,Dental Checkup,2024,7,Jul,31,29,Monday,3,False
+2024-07-29,Shopping,321.55,Credit Card,Clothes Shopping,2024,7,Jul,31,29,Monday,3,False
+2024-07-29,Transportation,328.55,UPI,Metro Card,2024,7,Jul,31,29,Monday,3,False
+2024-07-30,Food & Dining,454.53,Debit Card,Lunch Canteen,2024,7,Jul,31,30,Tuesday,3,False
+2024-07-31,Rent,11810.02,Debit Card,PG Rent,2024,7,Jul,31,31,Wednesday,3,False
+2024-07-31,Miscellaneous,406.3,UPI,Subscription,2024,7,Jul,31,31,Wednesday,3,False
+2024-07-31,Entertainment,646.16,UPI,Amazon Prime,2024,7,Jul,31,31,Wednesday,3,False
+2024-07-31,Food & Dining,157.1,Cash,Restaurant Dinner,2024,7,Jul,31,31,Wednesday,3,False
+2024-08-01,Shopping,2150.18,Net Banking,Amazon Order,2024,8,Aug,31,1,Thursday,3,False
+2024-08-02,Education,943.63,Net Banking,Workshop,2024,8,Aug,31,2,Friday,3,False
+2024-08-03,Food & Dining,388.9,Net Banking,Swiggy Order,2024,8,Aug,31,3,Saturday,3,True
+2024-08-04,Utilities,888.23,UPI,Internet Bill,2024,8,Aug,31,4,Sunday,3,True
+2024-08-04,Utilities,1501.57,Net Banking,Internet Bill,2024,8,Aug,31,4,Sunday,3,True
+2024-08-06,Education,1195.19,UPI,Tuition Fee,2024,8,Aug,32,6,Tuesday,3,False
+2024-08-07,Shopping,1161.01,Net Banking,Electronics,2024,8,Aug,32,7,Wednesday,3,False
+2024-08-08,Food & Dining,533.93,Credit Card,Zomato Delivery,2024,8,Aug,32,8,Thursday,3,False
+2024-08-09,Utilities,1705.88,Debit Card,Mobile Recharge,2024,8,Aug,32,9,Friday,3,False
+2024-08-10,Shopping,961.09,UPI,Amazon Order,2024,8,Aug,32,10,Saturday,3,True
+2024-08-12,Rent,12142.85,Net Banking,PG Rent,2024,8,Aug,33,12,Monday,3,False
+2024-08-14,Transportation,215.97,Debit Card,Petrol Fill,2024,8,Aug,33,14,Wednesday,3,False
+2024-08-14,Utilities,1224.17,Net Banking,Mobile Recharge,2024,8,Aug,33,14,Wednesday,3,False
+2024-08-14,Transportation,278.2,Credit Card,Petrol Fill,2024,8,Aug,33,14,Wednesday,3,False
+2024-08-15,Shopping,432.2,UPI,Amazon Order,2024,8,Aug,33,15,Thursday,3,False
+2024-08-15,Travel,4364.84,UPI,Train Booking,2024,8,Aug,33,15,Thursday,3,False
+2024-08-17,Utilities,1039.77,Credit Card,Mobile Recharge,2024,8,Aug,33,17,Saturday,3,True
+2024-08-18,Food & Dining,464.48,Net Banking,Grocery Store,2024,8,Aug,33,18,Sunday,3,True
+2024-08-18,Transportation,126.57,Net Banking,Metro Card,2024,8,Aug,33,18,Sunday,3,True
+2024-08-18,Food & Dining,286.34,Debit Card,Restaurant Dinner,2024,8,Aug,33,18,Sunday,3,True
+2024-08-19,Travel,2809.04,UPI,Hotel Stay,2024,8,Aug,34,19,Monday,3,False
+2024-08-20,Healthcare,758.13,UPI,Medicine Purchase,2024,8,Aug,34,20,Tuesday,3,False
+2024-08-20,Miscellaneous,456.31,Debit Card,Subscription,2024,8,Aug,34,20,Tuesday,3,False
+2024-08-20,Transportation,105.96,UPI,Bus Pass,2024,8,Aug,34,20,Tuesday,3,False
+2024-08-20,Entertainment,812.4,Debit Card,Spotify,2024,8,Aug,34,20,Tuesday,3,False
+2024-08-20,Miscellaneous,351.12,UPI,Gift Purchase,2024,8,Aug,34,20,Tuesday,3,False
+2024-08-21,Healthcare,1107.95,Debit Card,Medicine Purchase,2024,8,Aug,34,21,Wednesday,3,False
+2024-08-21,Entertainment,423.08,UPI,Spotify,2024,8,Aug,34,21,Wednesday,3,False
+2024-08-22,Shopping,517.43,UPI,Clothes Shopping,2024,8,Aug,34,22,Thursday,3,False
+2024-08-23,Education,1358.18,Debit Card,Online Course,2024,8,Aug,34,23,Friday,3,False
+2024-08-23,Utilities,1602.35,Credit Card,Gas Bill,2024,8,Aug,34,23,Friday,3,False
+2024-08-24,Entertainment,637.6,Net Banking,Gaming,2024,8,Aug,34,24,Saturday,3,True
+2024-08-25,Transportation,213.15,Net Banking,Petrol Fill,2024,8,Aug,34,25,Sunday,3,True
+2024-08-25,Food & Dining,318.24,Net Banking,Cafe Coffee,2024,8,Aug,34,25,Sunday,3,True
+2024-08-26,Rent,12108.18,UPI,PG Rent,2024,8,Aug,35,26,Monday,3,False
+2024-08-27,Miscellaneous,378.2,Cash,Charity Donation,2024,8,Aug,35,27,Tuesday,3,False
+2024-08-27,Food & Dining,391.57,Credit Card,Cafe Coffee,2024,8,Aug,35,27,Tuesday,3,False
+2024-08-27,Transportation,245.19,UPI,Bus Pass,2024,8,Aug,35,27,Tuesday,3,False
+2024-08-28,Food & Dining,503.32,Credit Card,Restaurant Dinner,2024,8,Aug,35,28,Wednesday,3,False
+2024-08-28,Transportation,177.71,UPI,Bus Pass,2024,8,Aug,35,28,Wednesday,3,False
+2024-08-28,Travel,2985.93,Credit Card,Hotel Stay,2024,8,Aug,35,28,Wednesday,3,False
+2024-08-28,Entertainment,689.45,Cash,Concert,2024,8,Aug,35,28,Wednesday,3,False
+2024-08-29,Healthcare,514.76,Net Banking,Medicine Purchase,2024,8,Aug,35,29,Thursday,3,False
+2024-08-29,Shopping,661.71,UPI,Flipkart Purchase,2024,8,Aug,35,29,Thursday,3,False
+2024-08-30,Utilities,1245.96,Net Banking,Mobile Recharge,2024,8,Aug,35,30,Friday,3,False
+2024-08-30,Food & Dining,423.4,Cash,Zomato Delivery,2024,8,Aug,35,30,Friday,3,False
+2024-08-31,Shopping,669.21,Cash,Clothes Shopping,2024,8,Aug,35,31,Saturday,3,True
+2024-08-31,Food & Dining,282.04,Net Banking,Swiggy Order,2024,8,Aug,35,31,Saturday,3,True
+2024-08-31,Food & Dining,336.12,Net Banking,Zomato Delivery,2024,8,Aug,35,31,Saturday,3,True
+2024-08-31,Shopping,1028.42,Cash,Clothes Shopping,2024,8,Aug,35,31,Saturday,3,True
+2024-09-01,Food & Dining,272.59,Net Banking,Cafe Coffee,2024,9,Sep,35,1,Sunday,3,True
+2024-09-01,Miscellaneous,324.0,Debit Card,Gift Purchase,2024,9,Sep,35,1,Sunday,3,True
+2024-09-02,Transportation,127.06,Net Banking,Auto Rickshaw,2024,9,Sep,36,2,Monday,3,False
+2024-09-03,Food & Dining,379.24,Credit Card,Swiggy Order,2024,9,Sep,36,3,Tuesday,3,False
+2024-09-04,Food & Dining,200.51,Debit Card,Lunch Canteen,2024,9,Sep,36,4,Wednesday,3,False
+2024-09-04,Transportation,240.6,Cash,Ola Cab,2024,9,Sep,36,4,Wednesday,3,False
+2024-09-04,Transportation,208.35,Debit Card,Metro Card,2024,9,Sep,36,4,Wednesday,3,False
+2024-09-04,Miscellaneous,305.88,UPI,Gift Purchase,2024,9,Sep,36,4,Wednesday,3,False
+2024-09-04,Transportation,138.53,Cash,Ola Cab,2024,9,Sep,36,4,Wednesday,3,False
+2024-09-05,Rent,12118.79,UPI,Apartment Rent,2024,9,Sep,36,5,Thursday,3,False
+2024-09-05,Transportation,148.5,Credit Card,Ola Cab,2024,9,Sep,36,5,Thursday,3,False
+2024-09-05,Healthcare,891.44,Net Banking,Dental Checkup,2024,9,Sep,36,5,Thursday,3,False
+2024-09-06,Utilities,527.62,Net Banking,Electricity Bill,2024,9,Sep,36,6,Friday,3,False
+2024-09-06,Healthcare,770.1,Net Banking,Lab Tests,2024,9,Sep,36,6,Friday,3,False
+2024-09-07,Utilities,1101.54,UPI,Electricity Bill,2024,9,Sep,36,7,Saturday,3,True
+2024-09-07,Healthcare,1425.5,Debit Card,Dental Checkup,2024,9,Sep,36,7,Saturday,3,True
+2024-09-07,Shopping,977.1,Net Banking,Flipkart Purchase,2024,9,Sep,36,7,Saturday,3,True
+2024-09-08,Travel,1785.54,UPI,Flight Tickets,2024,9,Sep,36,8,Sunday,3,True
+2024-09-08,Transportation,104.56,UPI,Auto Rickshaw,2024,9,Sep,36,8,Sunday,3,True
+2024-09-09,Food & Dining,235.34,UPI,Restaurant Dinner,2024,9,Sep,37,9,Monday,3,False
+2024-09-09,Entertainment,133.18,Cash,Netflix,2024,9,Sep,37,9,Monday,3,False
+2024-09-11,Entertainment,573.24,Debit Card,Gaming,2024,9,Sep,37,11,Wednesday,3,False
+2024-09-11,Healthcare,1548.57,Net Banking,Medicine Purchase,2024,9,Sep,37,11,Wednesday,3,False
+2024-09-12,Food & Dining,530.28,Net Banking,Cafe Coffee,2024,9,Sep,37,12,Thursday,3,False
+2024-09-15,Food & Dining,532.76,Net Banking,Swiggy Order,2024,9,Sep,37,15,Sunday,3,True
+2024-09-16,Entertainment,103.11,Debit Card,Amazon Prime,2024,9,Sep,38,16,Monday,3,False
+2024-09-16,Entertainment,696.02,Net Banking,Netflix,2024,9,Sep,38,16,Monday,3,False
+2024-09-17,Food & Dining,393.37,UPI,Zomato Delivery,2024,9,Sep,38,17,Tuesday,3,False
+2024-09-17,Transportation,134.37,Net Banking,Auto Rickshaw,2024,9,Sep,38,17,Tuesday,3,False
+2024-09-17,Miscellaneous,236.51,Credit Card,ATM Withdrawal,2024,9,Sep,38,17,Tuesday,3,False
+2024-09-18,Utilities,1492.05,UPI,Gas Bill,2024,9,Sep,38,18,Wednesday,3,False
+2024-09-18,Food & Dining,317.62,Cash,Swiggy Order,2024,9,Sep,38,18,Wednesday,3,False
+2024-09-19,Transportation,111.49,Cash,Auto Rickshaw,2024,9,Sep,38,19,Thursday,3,False
+2024-09-20,Miscellaneous,404.17,Cash,Others,2024,9,Sep,38,20,Friday,3,False
+2024-09-20,Shopping,642.98,Net Banking,Amazon Order,2024,9,Sep,38,20,Friday,3,False
+2024-09-20,Food & Dining,358.89,Net Banking,Zomato Delivery,2024,9,Sep,38,20,Friday,3,False
+2024-09-21,Transportation,104.29,Debit Card,Ola Cab,2024,9,Sep,38,21,Saturday,3,True
+2024-09-21,Shopping,1137.14,UPI,Clothes Shopping,2024,9,Sep,38,21,Saturday,3,True
+2024-09-22,Food & Dining,607.27,Debit Card,Cafe Coffee,2024,9,Sep,38,22,Sunday,3,True
+2024-09-24,Food & Dining,383.2,Debit Card,Cafe Coffee,2024,9,Sep,39,24,Tuesday,3,False
+2024-09-25,Utilities,1551.95,Net Banking,Internet Bill,2024,9,Sep,39,25,Wednesday,3,False
+2024-09-25,Utilities,1507.35,UPI,Gas Bill,2024,9,Sep,39,25,Wednesday,3,False
+2024-09-25,Miscellaneous,343.95,Net Banking,Others,2024,9,Sep,39,25,Wednesday,3,False
+2024-09-26,Education,1886.1,UPI,Online Course,2024,9,Sep,39,26,Thursday,3,False
+2024-09-27,Entertainment,480.59,Debit Card,Netflix,2024,9,Sep,39,27,Friday,3,False
+2024-09-28,Food & Dining,324.39,Credit Card,Grocery Store,2024,9,Sep,39,28,Saturday,3,True
+2024-09-28,Healthcare,1833.93,Credit Card,Medicine Purchase,2024,9,Sep,39,28,Saturday,3,True
+2024-09-29,Transportation,205.98,Debit Card,Petrol Fill,2024,9,Sep,39,29,Sunday,3,True
+2024-09-30,Utilities,1227.59,Credit Card,Water Bill,2024,9,Sep,40,30,Monday,3,False
+2024-09-30,Education,1952.38,Cash,Online Course,2024,9,Sep,40,30,Monday,3,False
+2024-10-01,Food & Dining,389.75,Cash,Zomato Delivery,2024,10,Oct,40,1,Tuesday,4,False
+2024-10-01,Transportation,192.22,Debit Card,Uber Ride,2024,10,Oct,40,1,Tuesday,4,False
+2024-10-02,Shopping,1554.95,Cash,Electronics,2024,10,Oct,40,2,Wednesday,4,False
+2024-10-02,Food & Dining,397.33,Debit Card,Cafe Coffee,2024,10,Oct,40,2,Wednesday,4,False
+2024-10-03,Transportation,195.92,UPI,Ola Cab,2024,10,Oct,40,3,Thursday,4,False
+2024-10-03,Shopping,22.18,Net Banking,Amazon Order,2024,10,Oct,40,3,Thursday,4,False
+2024-10-04,Healthcare,606.78,Cash,Dental Checkup,2024,10,Oct,40,4,Friday,4,False
+2024-10-05,Entertainment,284.78,Cash,Concert,2024,10,Oct,40,5,Saturday,4,True
+2024-10-05,Entertainment,684.4,Cash,Concert,2024,10,Oct,40,5,Saturday,4,True
+2024-10-05,Miscellaneous,322.5,Net Banking,Subscription,2024,10,Oct,40,5,Saturday,4,True
+2024-10-05,Transportation,125.9,Credit Card,Bus Pass,2024,10,Oct,40,5,Saturday,4,True
+2024-10-07,Transportation,288.5,Cash,Ola Cab,2024,10,Oct,41,7,Monday,4,False
+2024-10-08,Food & Dining,106.98,Credit Card,Restaurant Dinner,2024,10,Oct,41,8,Tuesday,4,False
+2024-10-08,Transportation,73.96,Debit Card,Metro Card,2024,10,Oct,41,8,Tuesday,4,False
+2024-10-09,Food & Dining,486.27,UPI,Zomato Delivery,2024,10,Oct,41,9,Wednesday,4,False
+2024-10-09,Travel,6030.71,Net Banking,Hotel Stay,2024,10,Oct,41,9,Wednesday,4,False
+2024-10-09,Shopping,1632.75,Cash,Books,2024,10,Oct,41,9,Wednesday,4,False
+2024-10-09,Utilities,1956.94,Debit Card,Water Bill,2024,10,Oct,41,9,Wednesday,4,False
+2024-10-10,Entertainment,449.57,UPI,Spotify,2024,10,Oct,41,10,Thursday,4,False
+2024-10-10,Travel,2747.36,Credit Card,Train Booking,2024,10,Oct,41,10,Thursday,4,False
+2024-10-10,Food & Dining,418.47,Debit Card,Swiggy Order,2024,10,Oct,41,10,Thursday,4,False
+2024-10-10,Food & Dining,481.85,Credit Card,Cafe Coffee,2024,10,Oct,41,10,Thursday,4,False
+2024-10-10,Healthcare,666.78,Debit Card,Doctor Visit,2024,10,Oct,41,10,Thursday,4,False
+2024-10-11,Transportation,197.15,Debit Card,Uber Ride,2024,10,Oct,41,11,Friday,4,False
+2024-10-11,Healthcare,867.6,Cash,Medicine Purchase,2024,10,Oct,41,11,Friday,4,False
+2024-10-12,Transportation,105.64,Credit Card,Uber Ride,2024,10,Oct,41,12,Saturday,4,True
+2024-10-12,Rent,11812.33,Cash,PG Rent,2024,10,Oct,41,12,Saturday,4,True
+2024-10-13,Entertainment,488.93,Cash,Spotify,2024,10,Oct,41,13,Sunday,4,True
+2024-10-14,Entertainment,744.27,Debit Card,Spotify,2024,10,Oct,42,14,Monday,4,False
+2024-10-14,Food & Dining,311.43,Net Banking,Restaurant Dinner,2024,10,Oct,42,14,Monday,4,False
+2024-10-15,Utilities,1527.53,UPI,Electricity Bill,2024,10,Oct,42,15,Tuesday,4,False
+2024-10-15,Food & Dining,184.68,Debit Card,Swiggy Order,2024,10,Oct,42,15,Tuesday,4,False
+2024-10-16,Healthcare,278.89,Net Banking,Lab Tests,2024,10,Oct,42,16,Wednesday,4,False
+2024-10-16,Shopping,685.45,UPI,Clothes Shopping,2024,10,Oct,42,16,Wednesday,4,False
+2024-10-16,Rent,11845.87,UPI,Apartment Rent,2024,10,Oct,42,16,Wednesday,4,False
+2024-10-17,Transportation,233.03,UPI,Petrol Fill,2024,10,Oct,42,17,Thursday,4,False
+2024-10-17,Food & Dining,438.62,UPI,Swiggy Order,2024,10,Oct,42,17,Thursday,4,False
+2024-10-17,Food & Dining,352.21,Net Banking,Swiggy Order,2024,10,Oct,42,17,Thursday,4,False
+2024-10-17,Food & Dining,358.1,Debit Card,Zomato Delivery,2024,10,Oct,42,17,Thursday,4,False
+2024-10-18,Food & Dining,345.7,Credit Card,Cafe Coffee,2024,10,Oct,42,18,Friday,4,False
+2024-10-19,Entertainment,430.77,Net Banking,Concert,2024,10,Oct,42,19,Saturday,4,True
+2024-10-19,Healthcare,1049.54,Cash,Dental Checkup,2024,10,Oct,42,19,Saturday,4,True
+2024-10-20,Shopping,821.18,Credit Card,Electronics,2024,10,Oct,42,20,Sunday,4,True
+2024-10-21,Education,2625.46,Cash,Tuition Fee,2024,10,Oct,43,21,Monday,4,False
+2024-10-21,Shopping,317.76,UPI,Flipkart Purchase,2024,10,Oct,43,21,Monday,4,False
+2024-10-22,Miscellaneous,400.4,Debit Card,Gift Purchase,2024,10,Oct,43,22,Tuesday,4,False
+2024-10-23,Shopping,2304.39,Cash,Books,2024,10,Oct,43,23,Wednesday,4,False
+2024-10-25,Transportation,274.77,Credit Card,Metro Card,2024,10,Oct,43,25,Friday,4,False
+2024-10-27,Miscellaneous,152.4,Debit Card,Subscription,2024,10,Oct,43,27,Sunday,4,True
+2024-10-28,Entertainment,685.9,Credit Card,Netflix,2024,10,Oct,44,28,Monday,4,False
+2024-10-28,Food & Dining,321.9,Debit Card,Swiggy Order,2024,10,Oct,44,28,Monday,4,False
+2024-10-30,Transportation,180.91,Debit Card,Metro Card,2024,10,Oct,44,30,Wednesday,4,False
+2024-11-01,Transportation,223.69,Net Banking,Metro Card,2024,11,Nov,44,1,Friday,4,False
+2024-11-01,Utilities,1439.34,UPI,Electricity Bill,2024,11,Nov,44,1,Friday,4,False
+2024-11-01,Shopping,1547.43,UPI,Clothes Shopping,2024,11,Nov,44,1,Friday,4,False
+2024-11-04,Rent,12785.89,Cash,House Rent,2024,11,Nov,45,4,Monday,4,False
+2024-11-05,Transportation,223.98,Cash,Uber Ride,2024,11,Nov,45,5,Tuesday,4,False
+2024-11-06,Rent,11879.56,Cash,House Rent,2024,11,Nov,45,6,Wednesday,4,False
+2024-11-06,Food & Dining,449.64,Debit Card,Grocery Store,2024,11,Nov,45,6,Wednesday,4,False
+2024-11-06,Transportation,63.69,Net Banking,Ola Cab,2024,11,Nov,45,6,Wednesday,4,False
+2024-11-07,Food & Dining,323.48,Cash,Swiggy Order,2024,11,Nov,45,7,Thursday,4,False
+2024-11-08,Food & Dining,365.69,Cash,Cafe Coffee,2024,11,Nov,45,8,Friday,4,False
+2024-11-09,Rent,11973.57,Debit Card,House Rent,2024,11,Nov,45,9,Saturday,4,True
+2024-11-10,Food & Dining,421.42,UPI,Lunch Canteen,2024,11,Nov,45,10,Sunday,4,True
+2024-11-10,Utilities,1661.67,Net Banking,Electricity Bill,2024,11,Nov,45,10,Sunday,4,True
+2024-11-11,Transportation,95.23,Debit Card,Petrol Fill,2024,11,Nov,46,11,Monday,4,False
+2024-11-11,Education,2488.3,Cash,Online Course,2024,11,Nov,46,11,Monday,4,False
+2024-11-12,Utilities,1654.51,Credit Card,Mobile Recharge,2024,11,Nov,46,12,Tuesday,4,False
+2024-11-12,Travel,3680.44,Credit Card,Visa Fee,2024,11,Nov,46,12,Tuesday,4,False
+2024-11-12,Shopping,1153.72,Cash,Clothes Shopping,2024,11,Nov,46,12,Tuesday,4,False
+2024-11-13,Utilities,1969.39,UPI,Gas Bill,2024,11,Nov,46,13,Wednesday,4,False
+2024-11-13,Transportation,242.97,Net Banking,Metro Card,2024,11,Nov,46,13,Wednesday,4,False
+2024-11-14,Transportation,230.23,Cash,Uber Ride,2024,11,Nov,46,14,Thursday,4,False
+2024-11-14,Education,1623.17,Net Banking,Workshop,2024,11,Nov,46,14,Thursday,4,False
+2024-11-15,Utilities,1257.51,Debit Card,Internet Bill,2024,11,Nov,46,15,Friday,4,False
+2024-11-15,Education,556.09,Net Banking,Course Fee,2024,11,Nov,46,15,Friday,4,False
+2024-11-16,Shopping,1448.66,Cash,Amazon Order,2024,11,Nov,46,16,Saturday,4,True
+2024-11-16,Miscellaneous,378.67,Net Banking,Gift Purchase,2024,11,Nov,46,16,Saturday,4,True
+2024-11-17,Miscellaneous,303.83,Cash,Subscription,2024,11,Nov,46,17,Sunday,4,True
+2024-11-17,Entertainment,250.36,Net Banking,Movie Tickets,2024,11,Nov,46,17,Sunday,4,True
+2024-11-17,Shopping,382.54,UPI,Books,2024,11,Nov,46,17,Sunday,4,True
+2024-11-17,Rent,11813.71,Net Banking,PG Rent,2024,11,Nov,46,17,Sunday,4,True
+2024-11-18,Food & Dining,270.59,Net Banking,Zomato Delivery,2024,11,Nov,47,18,Monday,4,False
+2024-11-18,Transportation,186.98,Net Banking,Ola Cab,2024,11,Nov,47,18,Monday,4,False
+2024-11-18,Food & Dining,450.28,Net Banking,Grocery Store,2024,11,Nov,47,18,Monday,4,False
+2024-11-18,Food & Dining,476.46,UPI,Zomato Delivery,2024,11,Nov,47,18,Monday,4,False
+2024-11-19,Food & Dining,138.44,UPI,Zomato Delivery,2024,11,Nov,47,19,Tuesday,4,False
+2024-11-20,Entertainment,746.71,Net Banking,Movie Tickets,2024,11,Nov,47,20,Wednesday,4,False
+2024-11-20,Rent,12316.67,Net Banking,PG Rent,2024,11,Nov,47,20,Wednesday,4,False
+2024-11-22,Food & Dining,177.7,Debit Card,Grocery Store,2024,11,Nov,47,22,Friday,4,False
+2024-11-22,Shopping,1153.39,Debit Card,Flipkart Purchase,2024,11,Nov,47,22,Friday,4,False
+2024-11-22,Shopping,922.87,Debit Card,Books,2024,11,Nov,47,22,Friday,4,False
+2024-11-23,Healthcare,693.29,Debit Card,Lab Tests,2024,11,Nov,47,23,Saturday,4,True
+2024-11-24,Miscellaneous,195.95,UPI,Subscription,2024,11,Nov,47,24,Sunday,4,True
+2024-11-26,Shopping,2284.25,Credit Card,Flipkart Purchase,2024,11,Nov,48,26,Tuesday,4,False
+2024-11-26,Miscellaneous,119.08,UPI,Charity Donation,2024,11,Nov,48,26,Tuesday,4,False
+2024-11-26,Healthcare,1221.3,Cash,Dental Checkup,2024,11,Nov,48,26,Tuesday,4,False
+2024-11-26,Healthcare,522.35,UPI,Doctor Visit,2024,11,Nov,48,26,Tuesday,4,False
+2024-11-27,Miscellaneous,320.85,UPI,Others,2024,11,Nov,48,27,Wednesday,4,False
+2024-11-27,Shopping,1748.69,Debit Card,Amazon Order,2024,11,Nov,48,27,Wednesday,4,False
+2024-11-27,Shopping,116.12,Debit Card,Flipkart Purchase,2024,11,Nov,48,27,Wednesday,4,False
+2024-11-28,Education,1228.06,Debit Card,Books Purchase,2024,11,Nov,48,28,Thursday,4,False
+2024-11-28,Healthcare,482.88,UPI,Lab Tests,2024,11,Nov,48,28,Thursday,4,False
+2024-11-28,Entertainment,541.46,Net Banking,Concert,2024,11,Nov,48,28,Thursday,4,False
+2024-11-29,Miscellaneous,82.48,Credit Card,Subscription,2024,11,Nov,48,29,Friday,4,False
+2024-11-29,Healthcare,1195.45,UPI,Doctor Visit,2024,11,Nov,48,29,Friday,4,False
+2024-11-29,Food & Dining,327.72,Net Banking,Swiggy Order,2024,11,Nov,48,29,Friday,4,False
+2024-11-30,Utilities,1725.42,Cash,Internet Bill,2024,11,Nov,48,30,Saturday,4,True
+2024-11-30,Utilities,1943.37,Net Banking,Electricity Bill,2024,11,Nov,48,30,Saturday,4,True
+2024-12-01,Utilities,1761.7,UPI,Water Bill,2024,12,Dec,48,1,Sunday,4,True
+2024-12-01,Transportation,250.44,Net Banking,Petrol Fill,2024,12,Dec,48,1,Sunday,4,True
+2024-12-01,Rent,11954.18,Cash,House Rent,2024,12,Dec,48,1,Sunday,4,True
+2024-12-01,Miscellaneous,223.77,Debit Card,Subscription,2024,12,Dec,48,1,Sunday,4,True
+2024-12-01,Food & Dining,163.92,UPI,Swiggy Order,2024,12,Dec,48,1,Sunday,4,True
+2024-12-01,Food & Dining,403.26,Credit Card,Swiggy Order,2024,12,Dec,48,1,Sunday,4,True
+2024-12-02,Rent,11314.75,Net Banking,House Rent,2024,12,Dec,49,2,Monday,4,False
+2024-12-02,Food & Dining,377.85,Debit Card,Swiggy Order,2024,12,Dec,49,2,Monday,4,False
+2024-12-03,Shopping,649.98,Net Banking,Clothes Shopping,2024,12,Dec,49,3,Tuesday,4,False
+2024-12-03,Food & Dining,473.72,Cash,Restaurant Dinner,2024,12,Dec,49,3,Tuesday,4,False
+2024-12-03,Entertainment,1041.36,Cash,Amazon Prime,2024,12,Dec,49,3,Tuesday,4,False
+2024-12-03,Food & Dining,327.16,Net Banking,Lunch Canteen,2024,12,Dec,49,3,Tuesday,4,False
+2024-12-03,Rent,12634.41,Credit Card,Monthly Rent,2024,12,Dec,49,3,Tuesday,4,False
+2024-12-04,Entertainment,377.62,Debit Card,Netflix,2024,12,Dec,49,4,Wednesday,4,False
+2024-12-04,Food & Dining,418.51,UPI,Zomato Delivery,2024,12,Dec,49,4,Wednesday,4,False
+2024-12-06,Transportation,201.11,Debit Card,Petrol Fill,2024,12,Dec,49,6,Friday,4,False
+2024-12-07,Healthcare,1033.25,UPI,Lab Tests,2024,12,Dec,49,7,Saturday,4,True
+2024-12-08,Food & Dining,145.59,UPI,Cafe Coffee,2024,12,Dec,49,8,Sunday,4,True
+2024-12-08,Entertainment,700.43,Debit Card,Netflix,2024,12,Dec,49,8,Sunday,4,True
+2024-12-09,Transportation,129.61,Debit Card,Auto Rickshaw,2024,12,Dec,50,9,Monday,4,False
+2024-12-09,Healthcare,813.44,Credit Card,Lab Tests,2024,12,Dec,50,9,Monday,4,False
+2024-12-09,Transportation,109.1,Debit Card,Bus Pass,2024,12,Dec,50,9,Monday,4,False
+2024-12-10,Transportation,119.77,UPI,Auto Rickshaw,2024,12,Dec,50,10,Tuesday,4,False
+2024-12-10,Miscellaneous,218.65,Debit Card,Others,2024,12,Dec,50,10,Tuesday,4,False
+2024-12-11,Travel,2760.5,Cash,Visa Fee,2024,12,Dec,50,11,Wednesday,4,False
+2024-12-12,Transportation,101.28,Credit Card,Auto Rickshaw,2024,12,Dec,50,12,Thursday,4,False
+2024-12-12,Miscellaneous,377.75,Credit Card,Others,2024,12,Dec,50,12,Thursday,4,False
+2024-12-13,Transportation,197.53,Cash,Bus Pass,2024,12,Dec,50,13,Friday,4,False
+2024-12-13,Transportation,172.14,Credit Card,Uber Ride,2024,12,Dec,50,13,Friday,4,False
+2024-12-14,Utilities,1319.81,Cash,Mobile Recharge,2024,12,Dec,50,14,Saturday,4,True
+2024-12-14,Transportation,137.72,Debit Card,Petrol Fill,2024,12,Dec,50,14,Saturday,4,True
+2024-12-14,Shopping,1139.36,Net Banking,Amazon Order,2024,12,Dec,50,14,Saturday,4,True
+2024-12-14,Food & Dining,214.44,Credit Card,Swiggy Order,2024,12,Dec,50,14,Saturday,4,True
+2024-12-14,Transportation,157.18,Credit Card,Uber Ride,2024,12,Dec,50,14,Saturday,4,True
+2024-12-15,Shopping,2118.75,Net Banking,Clothes Shopping,2024,12,Dec,50,15,Sunday,4,True
+2024-12-15,Transportation,149.2,Credit Card,Ola Cab,2024,12,Dec,50,15,Sunday,4,True
+2024-12-16,Healthcare,630.28,Net Banking,Doctor Visit,2024,12,Dec,51,16,Monday,4,False
+2024-12-16,Shopping,742.15,Cash,Clothes Shopping,2024,12,Dec,51,16,Monday,4,False
+2024-12-17,Miscellaneous,406.77,Cash,ATM Withdrawal,2024,12,Dec,51,17,Tuesday,4,False
+2024-12-18,Transportation,145.9,UPI,Ola Cab,2024,12,Dec,51,18,Wednesday,4,False
+2024-12-18,Utilities,1384.63,UPI,Mobile Recharge,2024,12,Dec,51,18,Wednesday,4,False
+2024-12-19,Shopping,1217.75,Credit Card,Flipkart Purchase,2024,12,Dec,51,19,Thursday,4,False
+2024-12-19,Miscellaneous,87.79,Credit Card,Charity Donation,2024,12,Dec,51,19,Thursday,4,False
+2024-12-19,Food & Dining,577.62,Credit Card,Swiggy Order,2024,12,Dec,51,19,Thursday,4,False
+2024-12-21,Transportation,92.66,Debit Card,Uber Ride,2024,12,Dec,51,21,Saturday,4,True
+2024-12-22,Transportation,114.21,Cash,Bus Pass,2024,12,Dec,51,22,Sunday,4,True
+2024-12-23,Entertainment,614.55,Credit Card,Spotify,2024,12,Dec,52,23,Monday,4,False
+2024-12-23,Transportation,193.05,Cash,Uber Ride,2024,12,Dec,52,23,Monday,4,False
+2024-12-24,Healthcare,1403.81,Credit Card,Lab Tests,2024,12,Dec,52,24,Tuesday,4,False
+2024-12-24,Entertainment,732.45,UPI,Amazon Prime,2024,12,Dec,52,24,Tuesday,4,False
+2024-12-25,Food & Dining,299.52,UPI,Grocery Store,2024,12,Dec,52,25,Wednesday,4,False
+2024-12-25,Travel,1893.66,Debit Card,Visa Fee,2024,12,Dec,52,25,Wednesday,4,False
+2024-12-25,Food & Dining,176.23,Debit Card,Restaurant Dinner,2024,12,Dec,52,25,Wednesday,4,False
+2024-12-26,Entertainment,660.49,UPI,Netflix,2024,12,Dec,52,26,Thursday,4,False
+2024-12-26,Transportation,172.39,Credit Card,Petrol Fill,2024,12,Dec,52,26,Thursday,4,False
+2024-12-27,Education,2846.74,Cash,Tuition Fee,2024,12,Dec,52,27,Friday,4,False
+2024-12-27,Shopping,1667.86,Cash,Electronics,2024,12,Dec,52,27,Friday,4,False
+2024-12-29,Healthcare,1040.06,UPI,Pharmacy,2024,12,Dec,52,29,Sunday,4,True
+2024-12-31,Rent,11804.96,UPI,PG Rent,2024,12,Dec,1,31,Tuesday,4,False

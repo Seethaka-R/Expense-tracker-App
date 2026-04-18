@@ -1,0 +1,12 @@
+====================================================
+  EXPENSE TRACKER — AUTO-GENERATED INSIGHTS
+====================================================
+
+1. Total annual expenditure: Rs 986,448.62
+2. Highest spending category: Rent (Rs 563,148.14)
+3. Most expensive month: Feb (Rs 127,709.35)
+4. Average monthly spending: Rs 82,204.05
+5. Most used payment method: Debit Card
+6. Weekend spending: Rs 310,255.26  |  Weekday spending: Rs 676,193.36
+7. Lowest spending category: Miscellaneous (Rs 17,439.74)
+8. Total transactions recorded: 600
