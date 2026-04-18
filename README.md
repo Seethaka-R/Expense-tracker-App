@@ -99,6 +99,15 @@ Open: http://localhost:8501
 | Budget | Progress bars, budget vs actual grouped bar chart |
 | Transactions | Searchable, sortable table + CSV download |
 
+## Dashboard output
+![Overview](images/web1.png)
+![](images/web2.png)
+![Trends](images/web3.png)
+![](images/web4.png)
+![Deep dive](images/web5.png)
+![Budget](images/web6.png)
+![Transactions](images/web7.png)
+
 ---
 
 ## Results (Sample)
